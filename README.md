@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Hello, I'm William-Wen :wave:
 <pre>
       ___           ___           ___       ___       ___     
      /\__\         /\  \         /\__\     /\__\     /\  \    
@@ -24,22 +25,27 @@ Here are some ideas to get you started:
  \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
       \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
       /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
-     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
-     \/__/         \/__/         \/__/     \/__/     \/__/    
+     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /    <strong>Hi, I am William-Wen !👋 </strong>
+     \/__/         \/__/         \/__/     \/__/     \/__/     <strong>A software engineer from Taiwan. </strong>
      
-<strong>Hi, I am weilin-Wen !👋 </strong>
-
-<strong>A software engineer from Taiwan. </strong>
-
 </pre> 
 
 <img width="100%" alt="game gif" src="./github-contribution-grid-snake.svg"/>
 
-### ⭐️ &nbsp;Github Star
+## ✨ &nbsp;About Me
 
-<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=weilin1205&count_private=true&show_icons=true"/>
+🎓 A University student that majors in computer science engineering
 
-### 🛠 &nbsp;Tech Stack
+📝 Regularly write articles on https://weilin1205.github.io/
+
+👨🏻‍💻 Aspire to become an excellent software engineer
+
+❤️ Like that kind of natural, natural feeling
+
+🐎 The universe is uncertain, you and I are dark horses
+
+### 🛠 &nbsp;Languages and Tools:
+
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -51,9 +57,15 @@ Here are some ideas to get you started:
 ![Koa.js](https://img.shields.io/badge/-Koa2-333333?style=flat&logo=koa.js)
 ![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
 
+## ⭐️ &nbsp;Project Analysis
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=weilin1205&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Cyan's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weilin1205&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
+<!--
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=weilin1205&" alt="weilin1205" /></p>
+-->
+
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="mailto:ethan4116@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-aa0905757908@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
 
 ### 🛳 &nbsp;Your ticket ID for this visit
 <img src="https://profile-counter.glitch.me/weilin1205/count.svg" />
