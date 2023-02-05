@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 
 ### 🛠 &nbsp;Tech Stack
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
