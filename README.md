@@ -50,22 +50,22 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 ![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
-![Koa.js](https://img.shields.io/badge/-Koa2-333333?style=flat&logo=koa.js)
-![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
 
-## ⭐️ &nbsp;Project Analysis
+### ⭐️ &nbsp;Project Analysis:
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=weilin1205&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Cyan's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weilin1205&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 <!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=weilin1205&" alt="weilin1205" /></p>
 -->
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Connect with Me:
 <a href="mailto:ethan4116@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-aa0905757908@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
-### 🛳 &nbsp;Your ticket ID for this visit
+### 🛳 &nbsp;Your ticket ID for this visit:
 <img src="https://profile-counter.glitch.me/weilin1205/count.svg" />
