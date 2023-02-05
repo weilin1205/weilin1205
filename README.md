@@ -46,16 +46,16 @@ Here are some ideas to get you started:
 
 ### 🛠 &nbsp;Languages and Tools:
 
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=cplusplus)
+![C](https://img.shields.io/badge/-C-blue?style=flat&logo=c)
+![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=CoffeeScript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
 ![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
-![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue-42b883?logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node-ef3335?logo=node.js&logoColor=white&color=026e00)
 
 ### ⭐️ &nbsp;Project Analysis:
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=weilin1205&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Cyan's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weilin1205&layout=compact&theme=buefy&hide_border=true" /> |
