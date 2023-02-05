@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 
 ### 🛠 &nbsp;Languages and Tools:
 
-![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=cplusplus)
-![C](https://img.shields.io/badge/-C-blue?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-red?style=flat&logo=cplusplus)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=CoffeeScript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white)
