@@ -40,6 +40,9 @@ Here are some ideas to get you started:
 <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=weilin1205&count_private=true&show_icons=true"/>
 
 ### 🛠 &nbsp;Tech Stack
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
