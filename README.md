@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ![Node.js](https://img.shields.io/badge/-Node-ef3335?logo=node.js&logoColor=white&color=026e00)
 
 ### ⭐️ &nbsp;Project Analysis:
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=weilin1205&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Cyan's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weilin1205&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=weilin1205&show_icons=true&locale=en" alt="weilin1205" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weilin1205&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 <!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=weilin1205&" alt="weilin1205" /></p>
