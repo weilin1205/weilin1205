@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 🎓 A University student that majors in computer science engineering
 
-📝 Regularly write articles on **[My Website](https://weilin1205.github.io/)**
+📝 Regularly write articles on **[My Website ➡ https://weilin1205.github.io/ ](https://weilin1205.github.io/)**
 
 👨🏻‍💻 Aspire to become an excellent software engineer
 
