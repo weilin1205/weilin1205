@@ -65,8 +65,8 @@ Here are some ideas to get you started:
 -->
 
 ### 🤝🏻 &nbsp;Connect with Me:
-<a href="mailto:ethan4116@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-williamwen180@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="mailto:ethan4116@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-aa0905757908@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:williamwen180@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-williamwen180@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:aa0905757908@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aa0905757908@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 ### 🛳 &nbsp;Your ticket ID for this visit:
 <img src="https://profile-counter.glitch.me/weilin1205/count.svg" />
