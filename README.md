@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 ### 🤝🏻 &nbsp;Connect with Me:
 <a href="mailto:williamwen180@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-williamwen180@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="mailto:aa0905757908@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aa0905757908@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<!-- <a href="mailto:aa0905757908@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aa0905757908@gmail.com-blue?style=flat-square&logo=gmail"></a> -->
 
 ### 🛳 &nbsp;Your ticket ID for this visit:
 ![](https://komarev.com/ghpvc/?username=weilin1205&base=2222)
